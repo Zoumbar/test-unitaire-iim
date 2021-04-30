@@ -7,7 +7,6 @@ List de commandes d'installation :
 
 
 Pour lancer les test lancer la commande : 
-- cd test-moch (pour aller dans le bon dossier)
 - mocha
 
 Voici le resultat attendu du test :
